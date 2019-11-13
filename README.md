@@ -1,6 +1,11 @@
 # ML Note
 
-I am a newbie to machine learning. This is an itinerary of my learning curve on ML. Any comments and suggestions welcome.
+I am a newbie to machine learning. This is an itinerary of my learning curve on ML.  <br/>
+
+In my understanding, there are two big branches when someone do research on machine learning. <\br>
+1) Get better algorithm with computer science perspective 2) Find statistical guarantee on algorithms <\br>
+1) is more important for practitioner. Academics overweigh 2). (So, only 1) can be easily monetized.) <\br>
+My study is based on 2) (unfortunately). For who are insterested in applying ML on finance problem. Any comments and suggestions welcome. <\br>
 
 Useful links (mostly from statistician)
 
