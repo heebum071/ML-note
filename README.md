@@ -11,28 +11,28 @@ by [Martin Wainwright](https://people.eecs.berkeley.edu/~wainwrig/?_ga=2.1849407
 https://www.youtube.com/watch?v=NobSAUIZOtU <br/>
 https://www.youtube.com/watch?v=d_-7VzV6jh4 <br/>
 His book for the 1st year Ph.D. (in statistics). Counterparty to Van der vaart's asymptotic statistics.<br/>
-[a link](https://www.amazon.com/gp/product/1108498027/ref=dbs_a_def_rwt_bibl_vppi_i0) <br/>
+[a link](https://www.amazon.com/gp/product/1108498027/ref=dbs_a_def_rwt_bibl_vppi_i0) <br/> <br/>
 
 2) Statistician's view on high dimensioinal statistics in Economics <br/>
 by [Larry Wasserman](http://www.stat.cmu.edu/~larry/) <br/>
 - Don't bring OLS results to serious statistician. They will not belive your t-stat if you do not correct the randomness of your covariates X. <br/>
-https://www.youtube.com/watch?v=JHvmBb6YKDw&t=4s <br/>
+https://www.youtube.com/watch?v=JHvmBb6YKDw&t=4s <br/> <br/>
 
 3) Nice video lecture on statistical machine learning<br/>
 by [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)<br/>
 - If I were to get to know it before Ph.D.. <br/>
-[a link](http://www.stat.cmu.edu/~ryantibs/statml/) <br/>
+[a link](http://www.stat.cmu.edu/~ryantibs/statml/) <br/> <br/>
 
 4) What is causal in machine learning?<br/>
 - The topic where economists can be loud <br/>
 - I hope more interactions happen between (Applied) economists and (Causal) machine learners <br/>
 http://www.ehkennedy.com/uploads/5/8/4/5/58450265/tutorial.pdf <br/>
-http://www.stat.cmu.edu/~larry/=sml/Causation.pdf <br/>
+http://www.stat.cmu.edu/~larry/=sml/Causation.pdf <br/> <br/>
 
 5) Econ class for causality and machine learning <br/>
 by [Maximilian Kasy](https://maxkasy.github.io/) <br/>
 - Anybody who wants to apply Online-Learning to Finance. Let me know <br/>
-https://maxkasy.github.io/home/TopicsInEconometrics2019/ <br/>
+https://maxkasy.github.io/home/TopicsInEconometrics2019/ <br/> <br/>
 
 6) Nice textual analysis course <br/>
 by [Justin Grimmer](https://www.justingrimmer.org/) <br/>
