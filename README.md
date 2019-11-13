@@ -23,4 +23,12 @@ by [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)<br/>
 
 4) What is causal in machine learning?<br/>
 http://www.ehkennedy.com/uploads/5/8/4/5/58450265/tutorial.pdf<br/>
-http://www.stat.cmu.edu/~larry/=sml/Causation.pdf
+http://www.stat.cmu.edu/~larry/=sml/Causation.pdf <br/>
+
+5) Econ class for causality and machine learning <br/>
+by [Maximilian Kasy](https://maxkasy.github.io/) <br/>
+https://maxkasy.github.io/home/TopicsInEconometrics2019/ <br/>
+
+6) Nice textual analysis course <br/>
+by [Justin Grimmer](https://www.justingrimmer.org/) <br/>
+http://stanford.edu/~jgrimmer/Text14/ 
