@@ -36,5 +36,5 @@ https://maxkasy.github.io/home/TopicsInEconometrics2019/ <br/> <br/>
 
 6) Nice textual analysis course <br/>
 by [Justin Grimmer](https://www.justingrimmer.org/) <br/>
-- Hope someone make a similar lecture in finance research <br/>
+- Hope someone make a similar lecture in finance research.. Or my bucket list.. <br/>
 http://stanford.edu/~jgrimmer/Text14/ 
