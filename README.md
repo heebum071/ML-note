@@ -6,7 +6,7 @@ Useful links (mostly from statistician)
 
 1) Nice overview of high dimensional statistics <br/> 
 by [Martin Wainwright](https://people.eecs.berkeley.edu/~wainwrig/?_ga=2.18494076.435531114.1573686806-1909242507.1563054461) <br/>
-- Nice lecture by the winner of the [COPSS Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award) (sometimes reffred to as the Nobel prize in Statistics?). For who wants authority before clicking the video.  <br/>
+- Nice lecture by the winner of the [COPSS Award](https://en.wikipedia.org/wiki/COPSS_Presidents%27_Award) (sometimes referred to as the Nobel prize in Statistics?). For who wants authority before clicking the video.  <br/>
 - My first step to understand what is theoretical guarantee when p>>n  <br/>
 - Who knows asymptotic theory from 1st year Ph.D. econometrics course can learn what makes sense when p>>n (in my opinion...) <br/>
 https://www.youtube.com/watch?v=NobSAUIZOtU <br/>
