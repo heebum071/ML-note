@@ -15,20 +15,26 @@ His book for the 1st year Ph.D. (in statistics). Counterparty to Van der vaart's
 
 2) Statistician's view on high dimensioinal statistics in Economics <br/>
 by [Larry Wasserman](http://www.stat.cmu.edu/~larry/) <br/>
+- Don't bring OLS results to serious statistician. They will not belive your t-stat if you do not correct the randomness of X.
 https://www.youtube.com/watch?v=JHvmBb6YKDw&t=4s <br/>
 
 3) Nice video lecture on statistical machine learning<br/>
 by [Ryan Tibshirani](http://www.stat.cmu.edu/~ryantibs/statml/)<br/>
+- If I were to get to know it before Ph.D.. <br/>
 [a link](http://www.stat.cmu.edu/~ryantibs/statml/) <br/>
 
 4) What is causal in machine learning?<br/>
-http://www.ehkennedy.com/uploads/5/8/4/5/58450265/tutorial.pdf<br/>
+- The topic where economists can be loud <br/>
+- I hope more interactions happen between (Applied) economists and (Causal) machine learners <br/>
+http://www.ehkennedy.com/uploads/5/8/4/5/58450265/tutorial.pdf <br/>
 http://www.stat.cmu.edu/~larry/=sml/Causation.pdf <br/>
 
 5) Econ class for causality and machine learning <br/>
 by [Maximilian Kasy](https://maxkasy.github.io/) <br/>
+- Anybody who wants to apply Online-Learning to Finance. Let me know <br/>
 https://maxkasy.github.io/home/TopicsInEconometrics2019/ <br/>
 
 6) Nice textual analysis course <br/>
 by [Justin Grimmer](https://www.justingrimmer.org/) <br/>
+- Hope someone make a similar lecture in finance research <br/>
 http://stanford.edu/~jgrimmer/Text14/ 
