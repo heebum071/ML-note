@@ -31,7 +31,7 @@ http://www.stat.cmu.edu/~larry/=sml/Causation.pdf <br/> <br/>
 
 5) Econ class for causality and machine learning <br/>
 by [Maximilian Kasy](https://maxkasy.github.io/) <br/>
-- Anybody who wants to apply Online-Learning to Finance. Let me know <br/>
+- Anybody who wants to apply Online-Learning (such as Bandit) to Finance. Glad to talk about it! <br/>
 https://maxkasy.github.io/home/TopicsInEconometrics2019/ <br/> <br/>
 
 6) Nice textual analysis course <br/>
