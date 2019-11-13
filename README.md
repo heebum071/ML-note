@@ -15,7 +15,7 @@ His book for the 1st year Ph.D. (in statistics). Counterparty to Van der vaart's
 
 2) Statistician's view on high dimensioinal statistics in Economics <br/>
 by [Larry Wasserman](http://www.stat.cmu.edu/~larry/) <br/>
-- Don't bring OLS results to serious statistician. They will not belive your t-stat if you do not correct the randomness of X.
+- Don't bring OLS results to serious statistician. They will not belive your t-stat if you do not correct the randomness of your covariates X. <br/>
 https://www.youtube.com/watch?v=JHvmBb6YKDw&t=4s <br/>
 
 3) Nice video lecture on statistical machine learning<br/>
