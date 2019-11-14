@@ -3,9 +3,9 @@
 I am a newbie to machine learning. This is an itinerary of my learning curve on ML.  <br/>
 
 In my understanding, there are two big branches in machine learning researches.
-(1) Get better algorithm with computer science perspective. (2) Find statistical guarantee on algorithms. <br/>
+(1) Get better algorithm with computer science perspective (2) Find statistical guarantee on algorithms. <br/>
 (1) might be more important for applications and practitioners' usage. Academics overweigh (2). <br/>
-My study is based on (2). For who are insterested in applying ML on finance problem, any comments and suggestions welcome. ([heebum071@gmail.com](heebum071@gmail.com))
+This note is based on (2). For who are insterested in applying ML on finance problem, any comments and suggestions welcome. ([heebum071@gmail.com](heebum071@gmail.com))
 
 Useful links (mostly from statistician)
 
