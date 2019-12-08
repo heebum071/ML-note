@@ -1,6 +1,6 @@
 # ML Note
 
-I am a newbie to machine learning. This is an itinerary of my learning curve on ML.  <br/>
+This is an itinerary of my learning curve on ML.  <br/>
 
 In my understanding, there are two big branches in machine learning researches.
 (1) Get better algorithm with computer science perspective (2) Find statistical guarantee on algorithms. <br/>
